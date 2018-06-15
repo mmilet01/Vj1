@@ -5,7 +5,9 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
+    Console.WriteLine("promejna");
     class Class1
     {
+        
     }
 }
